@@ -67,6 +67,7 @@
 		}
 	},
 	"scripts": {
+		"echo": "echo hello",
 		"dev": "npm run start",
 		"start": "vite",
 		"prepack": "npm run build",
